@@ -14,5 +14,5 @@ Data Scientist
 
 - Natural gas Consumptions
 ### Contact 
-Email: christianaatiemo970@gmail.com 
-WhatsApp: +233594948955
+- Email: christianaatiemo970@gmail.com
+- WhatsApp: +233594948955
