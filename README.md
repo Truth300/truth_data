@@ -2,7 +2,7 @@
 ### Education 
 Bsc Statistical Data Science @ University of Mines and Technology 
 ### Work Experience 
-#### Data Scientist 
+- Data Scientist 
 - Proper Analysis on Data 
 - Visualization of Dataset
 ### Projects 
