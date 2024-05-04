@@ -22,11 +22,12 @@ Welcome to my data science portfolio! This repository contains a collection of m
 
 ## Installation
 
-To run the projects in this portfolio, you will need to have Python installed on your machine. You can install the required libraries by running:
+To run the projects in this portfolio, open Google Colab or, you will need to have Python installed on your machine. You can install the required libraries by running:
 
 ``` python
 pip install -r requirements.txt
 ```
+[Open Google Colab](googlecolab.com)
 
 
 ## Usage
