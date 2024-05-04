@@ -6,19 +6,19 @@ Welcome to my data science portfolio! This repository contains a collection of m
 ### Projects
 
 ### Project 1: Fraud Checks
-- Description: In this project, I analyzed customer data to predict custo.
+- Description: In this project, I used the Random Forest ML Model to predict the likelihood of person committing fraud.
 - Tools: Python, Pandas, Scikit-learn
-- Results: Achieved an accuracy of 85% in predicting customer churn.
+- Results: Achieved an accuracy of 85% in predicting if a person is committing a fraud.
 
-### Project 2: Sentiment Analysis on Twitter Data
-- Description: Conducted sentiment analysis on Twitter data to understand public opinion on a specific topic.
-- Tools: Python, NLTK, TextBlob
-- Results: Identified sentiment trends and key insights from the Twitter data.
+### Project 2: Natural gas consumption in USA
+- Description: Conducted sentiment analysis on Natural gas consumption dataset to find out the Average Natural Gas Consumption for each Zip Code in USA grouped by Building Type.
+- Tools: Python, Scikit-learn, Tableau 
+- Results: Identified the total Natural Gas Consumption for each Building Type).
 
-### Project 3: Sales Forecasting with Time Series Analysis
-- Description: Used time series analysis to forecast sales for a retail company.
-- Tools: Python, Pandas, Statsmodels
-- Results: Generated accurate sales forecasts for the upcoming months.
+### Project 3: Car price prediction 
+- Description: Used Matplotlib.pyplot and Seaborn to visualize the prices of cars.
+- Tools: Python, Pandas, Tableau 
+- Results: Visualize the Dataset to understand clearly how the prices are varying.
 
 ## Installation
 
@@ -36,5 +36,6 @@ Each project folder contains the necessary code files and datasets. You can expl
 ## Contact
 
 If you have any questions or would like to collaborate on a data science project, feel free to reach out to me at [christianaatiemo970@gmail.com](mailto:christianaatiemo970@gmail.com).
+[WhatsApp](+233594948955)
 
 Thank you for visiting my data science portfolio 
