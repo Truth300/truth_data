@@ -38,6 +38,6 @@ Each project folder contains the necessary code files and datasets. You can expl
 
 If you have any questions or would like to collaborate on a data science project, feel free to reach out to me at [christianaatiemo970@gmail.com](mailto:christianaatiemo970@gmail.com).
 
-[WhatsApp](+233594948955)
+[WhatsApp](wa.me/+233594948955)
 
 Thank you for visiting my data science portfolio 
