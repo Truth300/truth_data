@@ -21,6 +21,7 @@ Name: count, dtype: int64
 
 
 ### Project 2: Natural gas consumption in USA
+[View Project here](https://github.com/Truth300/truth_data/blob/main/Project2_Consumption.ipynb)
 - Description: Conducted sentiment analysis on Natural gas consumption dataset to find out the Average Natural Gas Consumption for each Zip Code in USA grouped by Building Type.
 - Tools: Python, Scikit-learn, Tableau 
 - Results: Identified the total Natural Gas Consumption for each Building Type).
