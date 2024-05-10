@@ -8,6 +8,7 @@ Welcome to my data science portfolio! This repository contains a collection of m
 ### Projects
 
 ### Project 1: Fraud Checks
+[View Project here](https://github.com/Truth300/truth_data/blob/main/Fraud_Check.ipynb)
 - Description: In this project, I used the Random Forest ML Model to predict the likelihood of person committing fraud.
 - Tools: Python, Pandas, Scikit-learn
 - Results: Achieved an accuracy of 85% in predicting if a person is committing a fraud.
