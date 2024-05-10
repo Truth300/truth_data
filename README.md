@@ -1,5 +1,6 @@
 # Data Scientiist
-image: https://github.com/Truth300/truth_data/blob/main/image_859540174131631179796633.png
+![image_859540174131631179796633](https://github.com/Truth300/truth_data/assets/164891811/57688994-3269-41b6-afef-88d5d17d04ad)
+
 ## Data Science Portfolio
 
 Welcome to my data science portfolio! This repository contains a collection of my data science projects, showcasing my skills and expertise in data analysis, machine learning, and visualization.
@@ -10,6 +11,7 @@ Welcome to my data science portfolio! This repository contains a collection of m
 - Description: In this project, I used the Random Forest ML Model to predict the likelihood of person committing fraud.
 - Tools: Python, Pandas, Scikit-learn
 - Results: Achieved an accuracy of 85% in predicting if a person is committing a fraud.
+
 
 ### Project 2: Natural gas consumption in USA
 - Description: Conducted sentiment analysis on Natural gas consumption dataset to find out the Average Natural Gas Consumption for each Zip Code in USA grouped by Building Type.
