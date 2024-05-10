@@ -42,7 +42,7 @@ To run the projects in this portfolio, open Google Colab or, you will need to ha
 ``` python
 pip install -r requirements.txt
 ```
-[Open Google Colab](google.colab)
+[Open Google Colab](https://colab.research.google.com/github/Truth300/truth_data/blob/main/Fraud_Check.ipynb)
 
 
 ## Usage
