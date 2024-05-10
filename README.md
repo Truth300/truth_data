@@ -1,4 +1,5 @@
 # Data Scientist 
+image_859540174131631179796633.png
 ## Data Science Portfolio
 
 Welcome to my data science portfolio! This repository contains a collection of my data science projects, showcasing my skills and expertise in data analysis, machine learning, and visualization.
